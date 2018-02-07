@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9F62AE2F-AD89-79EA-1682-E41C750D22FC}") = "Diachron.Alpha", "Assembly-CSharp.csproj", "{48B53AD4-0764-8610-151A-1EEB2F4414A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48B53AD4-0764-8610-151A-1EEB2F4414A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B53AD4-0764-8610-151A-1EEB2F4414A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B53AD4-0764-8610-151A-1EEB2F4414A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B53AD4-0764-8610-151A-1EEB2F4414A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
